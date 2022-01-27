@@ -7,8 +7,8 @@ sites:
     url: https://schubi-lab.de
   - name: Blog
     url: https://blog.schubi-lab.de
-  - name: GitLab Up
-    url: https://up.schubi-lab.de
+  - name: Authelia
+    url: https://auth.schubi-lab.de
 
 
 status-website:
@@ -16,11 +16,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: https://schubilab.github.io/up/
   baseUrl: /up
-  theme: light
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Up
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Hello World :)**"
+  introMessage: 
   navbar:
     - title: Status
       href: /
@@ -28,7 +28,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
