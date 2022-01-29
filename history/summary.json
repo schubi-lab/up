@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/schubi-lab.de",
     "slug": "schubi-lab",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.31%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 2349,
     "timeDay": 4184,
     "timeWeek": 2349,
     "timeMonth": 2349,
     "timeYear": 2349,
     "dailyMinutesDown": {
-      "2022-01-29": 0
+      "2022-01-29": 22
     }
   },
   {
@@ -42,7 +42,7 @@
     "url": "https://auth.schubi-lab.de",
     "icon": "https://favicons.githubusercontent.com/auth.schubi-lab.de",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 874,
     "timeMonth": 874,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-29": 0
+    }
   }
 ]
