@@ -1,5 +1,5 @@
 # Change these first
-owner: schubilab # Your GitHub organization or username, where this repository lives
+owner: schubi-lab # Your GitHub organization or username, where this repository lives
 repo: up # The name of this repository
 
 sites:
@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: https://schubilab.github.io/up/
   baseUrl: /up
-  theme: dark
+  theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Up
   introTitle: "**Hello World :)**"
