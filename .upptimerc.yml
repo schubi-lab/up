@@ -5,10 +5,10 @@ repo: up # The name of this repository
 sites:
   - name: Schubi-Lab
     url: https://schubi-lab.de
-  - name: Blog
-    url: https://blog.schubi-lab.de
-  - name: Authelia
-    url: https://auth.schubi-lab.de
+ # - name: Blog
+ #   url: https://blog.schubi-lab.de
+ # - name: Authelia
+ #   url: https://auth.schubi-lab.de
 
 
 status-website:
