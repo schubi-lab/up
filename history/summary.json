@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/schubi-lab.de",
     "slug": "schubi-lab",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 826,
-    "timeDay": 1037,
-    "timeWeek": 660,
-    "timeMonth": 512,
-    "timeYear": 826,
+    "uptimeYear": "99.83%",
+    "time": 822,
+    "timeDay": 664,
+    "timeWeek": 685,
+    "timeMonth": 517,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2022-01-29": 87
     }
